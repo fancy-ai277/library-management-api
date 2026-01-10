@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # my apps
     'books',
+     'borrowing',
 
     # Third-party apps
     'rest_framework',
